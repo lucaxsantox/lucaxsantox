@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 💻 FullStack Developer Jr.
 - 📚 I’m currently learning about PHP
 - 😄 Pronouns: He/Him
-
+- ⚡ Fun fact: I love high speed music with video game sounds 👾🚀✨
 
 ## Technologies :
 
