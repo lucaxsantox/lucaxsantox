@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 ## Talk with me:
 
-<a href="mailto:lucasmoreira8013@gmail.com" alt="Gmail">
+<a href="mailto:lucas.moreira.santos8013@gmail.com" alt="Gmail">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
 
 <a href="https://www.linkedin.com/in/lucasmoreirasantos/" alt="Linkedin">
