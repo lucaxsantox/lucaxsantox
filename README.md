@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://static.wikia.nocookie.net/ragnarok_gamepedia_en/images/0/0c/RO_Baphomet2.gif/revision/latest/scale-to-width-down/174?cb=20171024211951" width="40">
 
 <!--
 **lucaxsantox/lucaxsantox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello World I'm Lucas 👋
+# I'm Lucas 
 
 <!-- <img align="right" src="https://raw.githubusercontent.com/BrayanAndrade/BrayanAndrade/main/computer-illustration.png" width="450" /> -->
 
