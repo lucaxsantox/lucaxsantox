@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 <img src="https://img.shields.io/badge/HTML-141321?style=flat-square&logo=html5&logoColor=#9942f5" />  <img src="https://img.shields.io/badge/CSS3-141321?style=flat-square&logo=css3&logoColor=#9942f5" /> 
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-141321?style=flat-square&logo=javascript&logoColor=#9942f5" /> 
 <img src="https://img.shields.io/badge/PHP-141321?style=flat-square=php&logoColor=#9942f5" /> 
 <img src="https://img.shields.io/badge/Python-141321?style=flat-square&logo=python&logoColor=#9942f5" /> 
